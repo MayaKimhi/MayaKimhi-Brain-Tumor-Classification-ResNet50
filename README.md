@@ -75,7 +75,7 @@ This project aims to support early and accurate detection through AI.
 |----------------------|-----------------------|
 | Without Augmentation | ~92%                  |
 | With Augmentation    | ~96%                  |
-| Fine-Tuned Model     | ** 98%**             |
+| Fine-Tuned Model     |    98%               |
 
 ---
 
