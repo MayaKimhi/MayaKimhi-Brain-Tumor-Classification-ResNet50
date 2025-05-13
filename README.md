@@ -78,7 +78,7 @@ This project aims to support early and accurate detection through AI.
     
 ---
 
-### Future Enhancements:
+## Future Enhancements:
 - Test on additional datasets (external validation)
 - Improve explainability (e.g., Grad-CAM visualizations)
 - Integrate into a clinical workflow
