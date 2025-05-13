@@ -25,7 +25,6 @@ This project aims to support early and accurate detection through AI.
 
 - Reduce incorrect diagnoses
 - Shorten time to diagnosis
-- Build an AI model based on transfer learning with ResNet-50
   
 ---
 ##  Dataset
@@ -36,18 +35,6 @@ This project aims to support early and accurate detection through AI.
 - **Classes**: 4 tumor types (as above)
 - **Image Size**: Images resized to 224x224 to fit ResNet-50
   
----
-
-##  Project Goals
-
-- Classify MRI images into 4 categories:
-  1. Glioma Tumor
-  2. Meningioma Tumor
-  3. Pituitary Tumor
-  4. No Tumor
-
-- Reduce incorrect diagnoses
-- Shorten time to diagnosis
 ---
 
 ##  Model Architecture
