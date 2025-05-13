@@ -1,7 +1,7 @@
 
 # Brain Tumor Classification Using ResNet-50 on MRI Images 
 Introduction to Artificial Intelligence course Final project, HIT
-Submitted by: **Maya Kimhi**  
+Submitted by Maya Kimhi
 
 >  **Achieved 98% classification accuracy on brain tumor MRI images using transfer learning with ResNet-50.**
 
@@ -10,7 +10,7 @@ Submitted by: **Maya Kimhi**
 Brain tumors are abnormal growths of cells in the brain or spinal cord. They pose a diagnostic challenge due to the blood-brain barrier. If misdiagnosed or untreated, they may cause severe brain damage or death.
 
 MRI and CT scans are primary diagnostic tools, but interpretation requires highly trained radiologists. In Israel, a shortage of radiologists often leads to:
-- Long wait times (up to 3 weeks)
+- Long wait times
 - Diagnostic errors (10–20%)
 This project aims to support early and accurate detection through AI.
 
