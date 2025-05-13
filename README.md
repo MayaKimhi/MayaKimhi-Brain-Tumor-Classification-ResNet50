@@ -34,17 +34,6 @@ This project aims to support early and accurate detection through AI.
 - **Split**: 78% training, 22% testing
 - **Classes**: 4 tumor types (as above)
 - **Image Size**: Images resized to 224x224 to fit ResNet-50
-  
----
-
-##  Model Architecture
-
-- Pretrained ResNet-50 model (on ImageNet)
-- Custom classification head added:
-  - Flatten
-  - Dense Layer(s)
-  - Dropout (optional)
-  - Softmax Output Layer (4 classes)
 
 ---
 ## Workflow Summary
